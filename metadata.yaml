@@ -1,0 +1,60 @@
+_repo: Told-by-an-idiot_75677
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Macaulay, Rose
+    aliases:
+    - Macaulay, Emilie Rose, Dame
+    - Macaulay, R. (Rose)
+    - Macaulay, Dame Rose
+    birthdate: 1881
+    deathdate: 1958
+    gutenberg_agent_id: '3869'
+    url: http://www.gutenberg.org/2009/agents/3869
+    wikipedia: https://en.wikipedia.org/wiki/Rose_Macaulay
+description: 'Reading ease score: 72.5 (7th grade). Fairly easy to read.'
+gutenberg_bookshelf:
+- 'Browsing: Culture/Civilization/Society'
+- 'Browsing: Fiction'
+gutenberg_issued: '2025-03-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75677'
+  lccn: '24002894'
+language: en
+pgterms:marc904: https://hdl.handle.net/2027/wau.39352007039084
+pgterms:marc905: 20190530034105macaulay
+pgterms:marc906: '1923'
+pgterms:marc907: US
+production_note: Tim Lindell, Laura Natal and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aNew York :$bBoni and Liveright, $c1923.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Domestic fiction'
+- !lcsh 'Great Britain -- History -- 19th century -- Fiction'
+- !lcsh 'Families -- Fiction'
+- !lcsh 'Great Britain -- History -- 20th century -- Fiction'
+- !lcc 'PR'
+- GITenberg
+summary: '"Told by an Idiot" by Rose Macaulay is a novel written in the early 20th
+  century. The story begins in a Victorian setting, focusing on the Garden family,
+  particularly around the figure of Mr. Aubrey Garden, an Anglican clergyman who frequently
+  experiences crises of faith. The characters include his six children and their mother,
+  each with their distinct personalities and perspectives on faith, politics, and
+  social issues. The book captures the family’s struggles with changes in belief systems
+  and the implications of their father''s shifting religious convictions.  At the
+  start of the novel, the eldest child, Victoria, expresses frustration over her father''s
+  recurring loss of faith, leading the family to consider joining the Ethical Society.
+  The narrative introduces her siblings, including the rationalist Maurice and the
+  idealistic Stanley, who embody the tensions of their time—balancing personal beliefs
+  against societal expectations. The discussions among the family members reveal their
+  differing worldviews, highlighting the interplay between modernity, tradition, and
+  the quest for meaning. This opening portion sets the stage for a social commentary
+  that explores themes of faith, identity, and familial dynamics in the face of change.
+  (This is an automatically generated summary.)'
+title: Told by an idiot
+url: http://www.gutenberg.org/ebooks/75677
