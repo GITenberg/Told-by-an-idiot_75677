@@ -1,5 +1,8 @@
 _repo: Told-by-an-idiot_75677
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75677-h/images/cover.jpg
 creator:
   author:
     agent_name: Macaulay, Rose
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3869
     wikipedia: https://en.wikipedia.org/wiki/Rose_Macaulay
 description: 'Reading ease score: 72.5 (7th grade). Fairly easy to read.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75677#Told-by-an-idiot
 gutenberg_bookshelf:
 - 'Browsing: Culture/Civilization/Society'
 - 'Browsing: Fiction'
